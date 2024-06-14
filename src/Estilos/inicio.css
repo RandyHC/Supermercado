@@ -1,0 +1,94 @@
+
+.pt-sans-regular {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.ropa-sans-regular {
+    font-family: "Ropa Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+.content-inicio{
+    background-color:rgb(233, 233, 233);
+}
+.content-p{
+    margin-bottom: 5px;;
+    display: flex;
+    justify-content:space-evenly;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(38,38,176,1) 0%, rgba(0,212,255,1) 100%);
+}
+.img-p-i{
+    display: flex;  
+}
+.img-p-s{
+    display: inline-block;  
+}
+.img-p-i-1{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;   
+}
+.img-p-i-2{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+.text-port{
+    align-self: center;
+    width:500px;
+}
+.tittle-p{
+    font-size:60px;
+    color:#00d4ff;
+}
+.text-p{
+    font-size:30px;
+    color:white;
+    width:550px;
+}
+.content-prod{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.content-ofert{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    gap: 5px;
+}
+
+.posicion-b{
+    margin:5px;
+    display: flex;
+    justify-content: center;
+    text-align:center;
+    
+}
+.boton-perso{
+    width:100px; 
+    height: 35px;
+    border-radius: 5px;
+    text-align:center; 
+    background-color: rgb(59, 111, 223);
+     
+}
+.boton-o{
+    margin-top:5px;
+    color:white;
+}
+.content-footer{
+    display:flex;
+    justify-content: space-around;
+    background: rgb(2,0,36);
+    background: linear-gradient(270deg, rgba(2,0,36,1) 0%, rgba(31,31,224,1) 0%, rgba(30,38,225,1) 0%, rgba(0,212,255,1) 100%);
+}
+.content-redes{
+    display: inline-block;
+}

@@ -1,0 +1,19 @@
+
+.content-img{
+    display:flex;
+    justify-content:center;
+}
+.celular{
+    margin:5px;
+}
+.qr{
+    height:200px;
+    align-self:center;
+    margin:5px;
+}
+.text{
+    align-self:center;
+    justify-self:flex-end;
+    width:400px;
+    margin:5px;
+}
